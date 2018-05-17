@@ -1,5 +1,5 @@
-Inroduction
------------
+Introduction
+------------
 This repositpry contains simple example of automated script which shows how
 you can automate testing of any Android mobile app using Airtest IDE framework.
 
